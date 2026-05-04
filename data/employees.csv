@@ -1,0 +1,9 @@
+name,abc_cert,servsafe_cert,role_level,flexibility,primary_skill
+Tracy,Yes,Yes,Manager,All,Management
+Alex,Yes,No,Staff,Partial,Tasting Room
+Jordan,No,No,Staff,None,Retail
+Morgan,Yes,No,Staff,Partial,Tours
+Casey,Yes,No,Staff,Partial,Retail
+Riley,No,Yes,Staff,None,Food Service
+Taylor,Yes,No,Staff,Partial,Tasting Room
+Sam,No,Yes,Staff,Partial,Food Service

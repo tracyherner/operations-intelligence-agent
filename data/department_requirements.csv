@@ -1,0 +1,7 @@
+department,required_staff,required_certs,preferred_training
+Retail,2,ABC,POS
+Tasting Room,3,ABC,POS
+Tours,2,ABC,Tour
+Food Service,1,ServSafe,POS
+Events,2,"ABC;ServSafe",POS
+Manager on Duty,1,ABC,MOD

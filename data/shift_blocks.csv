@@ -1,0 +1,7 @@
+day,shift,start_time,end_time,hours,purpose
+Saturday,Open,11:30,14:00,2.5,Opening setup and early traffic
+Saturday,Peak,14:00,17:00,3,Highest guest demand
+Saturday,Close,17:00,19:30,2.5,Closing service and cleanup
+Sunday,Open,11:30,14:00,2.5,Opening setup and early traffic
+Sunday,Peak,14:00,16:00,2,Highest guest demand
+Sunday,Close,16:00,18:30,2.5,Closing service and cleanup

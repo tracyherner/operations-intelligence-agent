@@ -1,0 +1,6 @@
+day,tour_type,start_time,duration_hours,expected_guests
+Saturday,Extensive Tour,11:00,2,12
+Saturday,Standard Tour,13:00,1,16
+Saturday,Standard Tour,15:00,1,18
+Sunday,Standard Tour,12:00,1,14
+Sunday,Extensive Tour,14:00,2,10

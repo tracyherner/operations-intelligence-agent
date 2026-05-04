@@ -1,0 +1,5 @@
+date,event_name,event_type,expected_guests,department_impact
+2026-05-02,Wine Club Pickup,Winery,120,Tasting Room
+2026-05-02,Live Music Night,Winery,80,Tasting Room
+2026-05-02,Colonial Festival,Community,300,Retail
+2026-05-03,Private Event,Winery,60,Food Service
